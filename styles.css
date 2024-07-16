@@ -11,6 +11,10 @@ body{
 	
 }
 
+td{
+	min-height: 100px;
+}
+
 tr,td,th{
 	padding:4%;
 	border:1px solid black;
